@@ -1,0 +1,7 @@
+Knäböj,ben
+Utfall,ben
+Bänkpress,bröst
+Armhävningar,bröst
+Marklyft,rygg
+Pull-ups,rygg
+Axelpress,axlar
